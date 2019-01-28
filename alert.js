@@ -1,0 +1,1 @@
+javascript: alert("Hey it works!");
